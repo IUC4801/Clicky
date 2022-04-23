@@ -53,7 +53,7 @@ Flutter should be installed in the device. Along with flutter, any code editor a
 - `OS:` Windows 10 64 bit
 - `RAM:` 8 GB 
 - `Processor:` 11th Gen Intel(R) Core(TM) i5
-- 
+
 ## Demo
 
 
