@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917584941414",
+    "project_id": "clicky-4007a",
+    "storage_bucket": "clicky-4007a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917584941414:android:dc7cba43ac6c699467b8a7",
+        "android_client_info": {
+          "package_name": "com.example.clicky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917584941414-0f3pm5qipnb8vfcn6hinb1trltrmsuhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Ab6D_M0WcD-CbIxSX0sTB0D9IYd2yv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917584941414-0f3pm5qipnb8vfcn6hinb1trltrmsuhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
